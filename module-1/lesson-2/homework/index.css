@@ -23,7 +23,7 @@ li {
 }
 
 .hero {
-  background-image: url("../images/hero_bg.png");
+  background-image: url("./images/hero_bg.png");
   background-repeat: no-repeat;
   background-position: calc(50% + 320px) calc(50% + 100px);
   padding-bottom: 300px;
@@ -110,7 +110,7 @@ li {
 
 .service {
   padding-top: 107px;
-  background-image: url("../images/service_bg.png");
+  background-image: url("./images/service_bg.png");
   background-repeat: no-repeat;
   background-position: calc(50% + 1px) calc(50% + 100px);
   background-size: 100%;
